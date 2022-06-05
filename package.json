@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharissaHollister/portfolio-generator.git"
+  },
+  "author": "\"charissa\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharissaHollister/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/CharissaHollister/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
