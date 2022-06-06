@@ -1,22 +1,19 @@
 {
-  "name": "portfolio-generator",
+  "name": "project",
   "version": "1.0.0",
-  "description": "\"\"",
+  "description": "",
   "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "\"no tests\""
+    "test": "node ./test/sample.js",
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CharissaHollister/portfolio-generator.git"
-  },
-  "author": "\"charissa\"",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CharissaHollister/portfolio-generator/issues"
-  },
-  "homepage": "https://github.com/CharissaHollister/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^7.0.3"
   }
 }
